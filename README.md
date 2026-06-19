@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋<br><br>I'm an Information Technology student passionate about backend engineering and software architecture.<br><br> ◦ 🔭 Building backend and full-stack applications<br> ◦ 🌱 Learning cloud, distributed systems, and modern software engineering<br> ◦ 💻 Main stack: C#, ASP.NET Core, TypeScript, NestJS, PostgreSQL<br> ◦ 🤖 Also interested in AI-powered applications and data analytics<br> ◦ 🚀 Always looking for opportunities to build useful products<br>
 
-
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bronzoeaqq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinhluong701) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinhluong701@gmail.com) 
 
