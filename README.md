@@ -1,4 +1,4 @@
-# Hi, I'm Dinh Luong 👋
+# Hi, I'm Liam 👋
 
 I'm an Information Technology student focused on backend engineering and software architecture. I enjoy turning ideas into reliable, useful products and exploring how modern systems scale.
 
