@@ -44,8 +44,8 @@ I'm an Information Technology student focused on backend engineering and softwar
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=supasentai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=supasentai&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=supasentai&theme=dark&hide_border=false)
 
-![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=supasentai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=supasentai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
