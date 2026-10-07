@@ -2,10 +2,10 @@
 
 I'm an Information Technology student focused on backend engineering and software architecture. I enjoy turning ideas into reliable, useful products and exploring how modern systems scale.
 
-- 🔭 Building backend and full-stack applications
-- 🌱 Learning cloud platforms, distributed systems, and modern software engineering
-- 🤖 Exploring AI-powered applications and data analytics
-- 🚀 Always looking for opportunities to build something useful
+- Building backend and full-stack applications
+- Learning cloud platforms, distributed systems, and modern software engineering
+- Exploring AI-powered applications and data analytics
+- Always looking for opportunities to build something useful
 
 ## Connect with me
 
